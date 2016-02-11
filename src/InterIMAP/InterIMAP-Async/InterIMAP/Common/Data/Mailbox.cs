@@ -1,4 +1,5 @@
-﻿namespace InterIMAP.Common.Data {
+﻿namespace EveImSync.InterIMAP.InterIMAP_Async.InterIMAP.Common.Data
+{
     
     
     public partial class Mailbox {
